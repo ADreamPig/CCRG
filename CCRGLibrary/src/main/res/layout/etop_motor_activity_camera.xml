@@ -1,0 +1,94 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/re_c"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.EtCameraActivity">
+
+    <SurfaceView
+        android:id="@+id/surfaceViwe"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" />
+
+    <ImageButton
+        android:id="@+id/back_camera_etop"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="25dp"
+        android:layout_marginLeft="15dp"
+        android:background="@drawable/etop_motor_back_camera" />
+
+    <ImageButton
+        android:id="@+id/flash_camera_etop"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="25dp"
+        android:background="@drawable/etop_motor_flash_off" />
+
+    <ImageButton
+        android:id="@+id/etop_change"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="15dp"
+        android:background="@drawable/etop_motor_change" />
+
+    <ImageButton
+        android:id="@+id/take_pic_etop"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="15dp"
+        android:rotation="90"
+        android:background="@drawable/etop_motor_takepic" />
+
+    <LinearLayout
+        android:id="@+id/ll_jdt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:orientation="vertical"
+        android:visibility="gone">
+
+        <ProgressBar
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:indeterminate="false"
+            android:indeterminateDrawable="@drawable/etop_motor_loading_color"
+            android:indeterminateDuration="500" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="正在处理图像..."
+            android:textColor="#3399FF"
+            android:textSize="14sp" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/remind"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:background="@color/green_color"
+        android:layout_marginTop="20dp"
+        android:textColor="#FFF"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="25dp"
+        android:text="当前为手动拍照识别模式"
+        android:textColor="#FFF"
+        android:textSize="20sp" />
+
+</RelativeLayout>

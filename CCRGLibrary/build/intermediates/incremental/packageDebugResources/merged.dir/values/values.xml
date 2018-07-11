@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black_color">#000000</color>
+    <color name="green_color">#00CC00</color>
+    <color name="light_blue_color">#12d4dc</color>
+    <color name="line_bottom_color">#CCCCCC</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="viewfinder_mask">#9F9F9F</color>
+    <color name="white_color">#FFFFFF</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="line_width">2dp</dimen>
+    <dimen name="num">25dp</dimen>
+    <dimen name="text_size">20sp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">机动车发票</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_show_result">ShowResult</string>
+    <string name="toast_camera">无法启用相机</string>
+    <string name="toast_flash">当前设备不支持闪光灯</string>
+</resources>

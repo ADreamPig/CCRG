@@ -1,0 +1,59 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\demo\MotorVehicleInvoice-master\CCRGLibrary\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from F:\demo\MotorVehicleInvoice-master\CCRGLibrary\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from F:\demo\MotorVehicleInvoice-master\CCRGLibrary\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from F:\demo\MotorVehicleInvoice-master\CCRGLibrary\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from F:\demo\MotorVehicleInvoice-master\CCRGLibrary\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from F:\demo\MotorVehicleInvoice-master\CCRGLibrary\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from F:\demo\MotorVehicleInvoice-master\CCRGLibrary\src\main\AndroidManifest.xml:2:1-19:12
+	package
+		ADDED from F:\demo\MotorVehicleInvoice-master\CCRGLibrary\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from F:\demo\MotorVehicleInvoice-master\CCRGLibrary\src\main\AndroidManifest.xml
+		INJECTED from F:\demo\MotorVehicleInvoice-master\CCRGLibrary\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\demo\MotorVehicleInvoice-master\CCRGLibrary\src\main\AndroidManifest.xml
+		ADDED from F:\demo\MotorVehicleInvoice-master\CCRGLibrary\src\main\AndroidManifest.xml:2:1-19:12
+		INJECTED from F:\demo\MotorVehicleInvoice-master\CCRGLibrary\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from F:\demo\MotorVehicleInvoice-master\CCRGLibrary\src\main\AndroidManifest.xml
+		ADDED from F:\demo\MotorVehicleInvoice-master\CCRGLibrary\src\main\AndroidManifest.xml:2:1-19:12
+		INJECTED from F:\demo\MotorVehicleInvoice-master\CCRGLibrary\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\demo\MotorVehicleInvoice-master\CCRGLibrary\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from F:\demo\MotorVehicleInvoice-master\CCRGLibrary\src\main\AndroidManifest.xml:5:5-17:19
+	android:allowBackup
+		ADDED from F:\demo\MotorVehicleInvoice-master\CCRGLibrary\src\main\AndroidManifest.xml:6:9-35
+activity#com.etop.MVIDetectLine.activity.EtCameraActivity
+ADDED from F:\demo\MotorVehicleInvoice-master\CCRGLibrary\src\main\AndroidManifest.xml:7:9-10:20
+	android:screenOrientation
+		ADDED from F:\demo\MotorVehicleInvoice-master\CCRGLibrary\src\main\AndroidManifest.xml:9:13-50
+	android:name
+		ADDED from F:\demo\MotorVehicleInvoice-master\CCRGLibrary\src\main\AndroidManifest.xml:8:13-54
+activity#com.etop.MVIDetectLine.activity.EditPhotoActivity
+ADDED from F:\demo\MotorVehicleInvoice-master\CCRGLibrary\src\main\AndroidManifest.xml:11:9-13:52
+	android:screenOrientation
+		ADDED from F:\demo\MotorVehicleInvoice-master\CCRGLibrary\src\main\AndroidManifest.xml:13:13-49
+	android:name
+		ADDED from F:\demo\MotorVehicleInvoice-master\CCRGLibrary\src\main\AndroidManifest.xml:12:13-55
+activity#com.etop.MVIDetectLine.activity.EtRecogImgActivity
+ADDED from F:\demo\MotorVehicleInvoice-master\CCRGLibrary\src\main\AndroidManifest.xml:14:9-16:52
+	android:screenOrientation
+		ADDED from F:\demo\MotorVehicleInvoice-master\CCRGLibrary\src\main\AndroidManifest.xml:16:13-49
+	android:name
+		ADDED from F:\demo\MotorVehicleInvoice-master\CCRGLibrary\src\main\AndroidManifest.xml:15:13-56
+uses-sdk
+INJECTED from F:\demo\MotorVehicleInvoice-master\CCRGLibrary\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\demo\MotorVehicleInvoice-master\CCRGLibrary\src\main\AndroidManifest.xml
+INJECTED from F:\demo\MotorVehicleInvoice-master\CCRGLibrary\src\main\AndroidManifest.xml
+INJECTED from F:\demo\MotorVehicleInvoice-master\CCRGLibrary\src\main\AndroidManifest.xml
+INJECTED from F:\demo\MotorVehicleInvoice-master\CCRGLibrary\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\demo\MotorVehicleInvoice-master\CCRGLibrary\src\main\AndroidManifest.xml
+		ADDED from F:\demo\MotorVehicleInvoice-master\CCRGLibrary\src\main\AndroidManifest.xml
+		INJECTED from F:\demo\MotorVehicleInvoice-master\CCRGLibrary\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\demo\MotorVehicleInvoice-master\CCRGLibrary\src\main\AndroidManifest.xml
+		ADDED from F:\demo\MotorVehicleInvoice-master\CCRGLibrary\src\main\AndroidManifest.xml
+		INJECTED from F:\demo\MotorVehicleInvoice-master\CCRGLibrary\src\main\AndroidManifest.xml

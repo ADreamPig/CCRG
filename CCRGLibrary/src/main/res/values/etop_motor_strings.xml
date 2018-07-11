@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">机动车发票</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="toast_camera">无法启用相机</string>
+    <string name="toast_flash">当前设备不支持闪光灯</string>
+    <string name="title_activity_show_result">ShowResult</string>
+</resources>
