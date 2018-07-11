@@ -6,14 +6,12 @@ import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
 import android.telephony.TelephonyManager;
-import android.util.Log;
 import android.widget.Toast;
 
 import com.etop.MVIDetectLine.utils.ConstantUtil;
 import com.etop.MVInvoice.MVInvoiceAPI;
 
 import java.util.ArrayList;
-import java.util.List;
 
 public class EtRecogImgActivity extends Activity {
 

@@ -8,8 +8,6 @@ import android.graphics.Paint;
 import android.graphics.Rect;
 import android.view.View;
 
-import com.etop.MVIDetectLine.R;
-
 
 public class LineViewfinderView extends View {
     private static final long ANIMATION_DELAY = 5L;
@@ -30,10 +28,10 @@ public class LineViewfinderView extends View {
         this.h = h;
 
         Resources resources = getResources();
-        frameColor = resources.getColor(R.color.green_color);
-        TEXT_SIZE = resources.getDimensionPixelSize(R.dimen.text_size);
-        lineWidth = resources.getDimension(R.dimen.line_width);
-        num = resources.getDimension(R.dimen.num);
+        frameColor = resources.getColor(com.etop.MVIDetectLine.R.color.green_color);
+        TEXT_SIZE = resources.getDimensionPixelSize(com.etop.MVIDetectLine.R.dimen.text_size);
+        lineWidth = resources.getDimension(com.etop.MVIDetectLine.R.dimen.line_width);
+        num = resources.getDimension(com.etop.MVIDetectLine.R.dimen.num);
         for (int i = 0; i < 4; i++) {
             line[i] = new Rect(0, 0, 0, 0);
         }

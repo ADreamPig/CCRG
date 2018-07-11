@@ -33,10 +33,11 @@ import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import com.etop.MVIDetectLine.utils.ActualHeightUtil;
 import com.etop.MVIDetectLine.R;
 import com.etop.MVIDetectLine.utils.ConstantUtil;
 import com.etop.MVIDetectLine.utils.DataUtil;
-import com.etop.MVIDetectLine.utils.ActualHeightUtil;
 import com.etop.MVIDetectLine.utils.MotorInfoConfig;
 import com.etop.MVIDetectLine.utils.StreamUtil;
 import com.etop.MVIDetectLine.utils.ToastUtil;

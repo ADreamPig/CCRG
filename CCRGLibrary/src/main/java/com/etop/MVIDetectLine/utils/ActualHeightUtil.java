@@ -1,11 +1,9 @@
 package com.etop.MVIDetectLine.utils;
 
 import android.app.Activity;
-import android.content.res.Resources;
 import android.util.DisplayMetrics;
 import android.view.Display;
 
-import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 
 public class ActualHeightUtil {
